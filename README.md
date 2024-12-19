@@ -9,6 +9,9 @@ The repository Sentiment-Analysis-RNN is a project that focuses on sentiment ana
   Your browser does not support the video tag.
 </video>
 
+## Dataset
+The dataset used in this project is taken from Kaggle's IMDb movie reviews dataset.
+
 ## Installation
 1. Clone the repository:
     ```sh
