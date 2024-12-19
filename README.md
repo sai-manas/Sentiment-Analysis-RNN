@@ -1,7 +1,7 @@
 # Sentiment-Analysis-RNN
 
 ## Description
-The repository Sentiment-Analysis-RNN is a project that focuses on sentiment analysis using Recurrent Neural Networks (RNN). It utilizes TensorFlow and Keras for building and training the model, and the dataset used is the IMDb movie reviews dataset. The repository includes Jupyter Notebooks demonstrating the prediction and model training processes.
+The repository Sentiment-Analysis-RNN is a project that focuses on sentiment analysis using Recurrent Neural Networks (RNN). It utilizes TensorFlow and Keras for building and training the model, and the dataset used is the IMDb movie reviews dataset. The input is the text of the movie review, and the output is the sentiment label (positive/negative).
 
 ## Video Demo
 [![App Demo](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
